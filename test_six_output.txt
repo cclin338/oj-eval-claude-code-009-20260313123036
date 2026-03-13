@@ -1,0 +1,4 @@
+Initial size: 1000000
+Size at expansion: 1048577
+Time taken for 100000 rounds of 16 push-pops (ms): 1
+Final size: 1048577
